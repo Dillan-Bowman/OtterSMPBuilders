@@ -1,7 +1,7 @@
 |item|unit price|stack price (5% off)|Shulker Price (10% off)|
 |-|-|-|-|
-|Slimeball|25|1600 (1520) |43200 (38880)|
-|Slime Block|220|14080 (13376)|380160 (342144)|
+|Slimeball|50|3200 (3040) |86400 (77760)|
+|Slime Block|500|32000 (30400) |864000 (777600)|
 |Shulker|||120000|
 
 
