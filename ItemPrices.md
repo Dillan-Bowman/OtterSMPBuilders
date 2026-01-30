@@ -8,7 +8,7 @@
 
 |discount|amount|requirements|
 |-|-|-|
-|Bulk order discount|5%/Shulker|A Shulker box needs to be full before a 5% discount can be applied. Caps at 50%.
+|Bulk order discount|5%/Shulker|A Shulker box needs to be full before a 5% discount can be applied. Caps at 30%.
 |Frequent shopper discount|10%|For those whom have recurring orders on a schedule. must be at least one order every month.
 |VIP discount||
 |Supplier's discount||
