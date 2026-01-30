@@ -3,9 +3,9 @@
 |Slimeball|50|3200|86400|
 |Slime Block|500|32000|864000|
 |Shulker|||120000|
-|End Rods|1000|64000|1728000
-|Chorus Fruit|1000|64000|1728000
-|Purpur Block|1000|64000|1728000
+|End Rods|900|57600|1555200
+|Chorus Fruit|900|57600|1555200
+|Purpur Block|900|57600|1555200
 ||||
 ||||
 ||||
