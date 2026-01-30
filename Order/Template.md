@@ -1,7 +1,7 @@
 The Builders
-Order|000
+Order|0
 -|-|
-Client|
+Client|-
 Merchant|
 Ordered|
 Completed|
@@ -10,5 +10,8 @@ Order:
 
 Item|Amount|Unit Cost|Total Cost
 -|-|-|-|
-item|16|5|80
+|||
+|||
+Subtotal|||
+|||
 Total|||
