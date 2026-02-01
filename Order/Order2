@@ -1,1 +1,18 @@
+The Builders
+Order|2
+-|-|
+Client|Dwaas_
+Merchant|DIOMONDCREEPERLH
+Ordered|2026/02/1
+Completed|2026/02/1
 
+Order:
+
+Item|Amount|Unit Cost|Total Cost
+-|-|-|-|
+Slime Block Stack|2|32,000|64,000
+Shulker Box|0|0|0
+Subtotal|||64,000
+Bulk order discount|0%||
+First customer discount|0||
+Total|||64,000
